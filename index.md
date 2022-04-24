@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 不是这个,干正事去!
 
 You can use the [editor on GitHub](https://github.com/zla210/zla210.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
