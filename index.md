@@ -7,5 +7,4 @@
 
 [dog.jpg](src)
 
-
-<img src="dog.jpg" alt="dog">
+![dog](https://user-images.githubusercontent.com/104287668/164955304-5d4df74b-dc83-41c2-8330-1ab8be027e4f.jpg)
