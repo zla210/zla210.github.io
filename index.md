@@ -8,3 +8,4 @@
 [dog.jpg](src)
 
 
+<img src="dog.jpg" alt="dog">
